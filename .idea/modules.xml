@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:\Design\Login-and-Signup-in-Android-master\Login-SignupModules-Lab2-SagarDafle.iml" filepath="E:\Design\Login-and-Signup-in-Android-master\Login-SignupModules-Lab2-SagarDafle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoginSignupFragment.iml" filepath="$PROJECT_DIR$/LoginSignupFragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
